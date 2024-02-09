@@ -1,0 +1,9 @@
+cryptography
+Flask
+requests
+python-dotenv
+openai==0.28.1
+gunicorn
+apscheduler
+pymysql 
+sqlalchemy
